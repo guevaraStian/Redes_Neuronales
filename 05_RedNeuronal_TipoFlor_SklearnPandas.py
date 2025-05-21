@@ -1,5 +1,5 @@
 # Ejemplo de red neuronal sencilla
-# pip install pandas seaborn
+# pip install pandas pandas seaborn
 # pip 25.1.1
 # Python 3.13.1
 
