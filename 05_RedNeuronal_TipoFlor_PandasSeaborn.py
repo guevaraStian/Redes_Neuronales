@@ -1,5 +1,5 @@
 # Ejemplo de red neuronal sencilla
-# pip install pandas pandas seaborn
+# pip install pandas seaborn
 # pip 25.1.1
 # Python 3.13.1
 
@@ -55,6 +55,7 @@ X_scaled = scaler.fit_transform(X)
 
 # Se extraen las variables de prueba e iteracion con la tabla
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y_encoded, test_size=0.2, random_state=42)
+
 
 # Se crea y se entrena la red neuronal
 model = MLPClassifier(hidden_layer_sizes=(10, 10), activation='relu', solver='adam', max_iter=500)
