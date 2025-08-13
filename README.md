@@ -1,0 +1,110 @@
+Redes neuronales en Python, Ruby, Go y R
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
+----------------
+-----------------
+PYTHON 
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
+
+```Pagina web
+https://www.python.org/downloads/
+```
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+```Terminal de comandos
+cd    
+python --version
+pip --versión
+pip install --upgrade pip
+pip install scikit-learn sklearn matplotlib numpy pandas seaborn itertools ucimlrepo
+python <Nombre_Proyecto.py>
+
+```
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+------------------------------
+-----------------------------------
+RUBY
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Ruby en la terminal de comandos
+
+Windows
+```Pagina web
+https://rubyinstaller.org/
+```
+
+LINUX
+```Terminal de comandos
+sudo apt install ruby-full
+```
+
+MAC
+```Terminal de comandos
+brew install rbenv ruby-build 
+sudo apt install rbenv
+```
+
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+```Terminal de comandos
+cd    
+ruby -v
+ruby <Nombre_Proyecto.rb>
+
+```
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+
+--------------------------
+------------------------
+
+GO
+
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
+
+Windows
+```Pagina web
+https://go.dev/doc/install
+```
+
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+```Terminal de comandos
+cd    
+go version 
+go run <Nombre_Proyecto.go>
+go build
+
+```
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+
+---------------------
+-------------------
+
+R
+
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
+
+Windows
+```Pagina web
+https://posit.co/download/rstudio-desktop/
+https://cran.r-project.org/
+```
+
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
+
+
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
