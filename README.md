@@ -67,7 +67,7 @@ brew install rbenv ruby-build
 sudo apt install rbenv
 ```
 
-Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+Despues de haber instalado Ruby y confirmar la version, instalamos git y descargamos el proyecto.
 ```Terminal de comandos
 git --version
 git init
@@ -101,7 +101,17 @@ https://go.dev/doc/install
 https://git-scm.com/
 ```
 
-Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Redes_Neuronales.git
+git push origin master
+```
+
+Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
 cd    
@@ -129,7 +139,7 @@ https://cran.r-project.org/
 https://git-scm.com/
 ```
 
-Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+Despues de haber instalado R y confirmar la version, instalamos git y descargamos el proyecto.
 ```Terminal de comandos
 git --version
 git init
