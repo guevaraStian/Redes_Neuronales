@@ -19,15 +19,29 @@ https://www.python.org/downloads/
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
-cd    
+cd
 python --version
-pip --versión
+pip --version
+```
+
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Redes_Neuronales.git
+git push origin master
+```
+Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
+```Terminal de comandos
+cd    
 pip install --upgrade pip
 pip install scikit-learn sklearn matplotlib numpy pandas seaborn itertools ucimlrepo
 python <Nombre_Proyecto.py>
 
 ```
 Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
 
 ------------------------------
 -----------------------------------
@@ -39,6 +53,7 @@ Ir a la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la o
 Windows
 ```Pagina web
 https://rubyinstaller.org/
+https://git-scm.com/
 ```
 
 LINUX
@@ -50,6 +65,14 @@ MAC
 ```Terminal de comandos
 brew install rbenv ruby-build 
 sudo apt install rbenv
+```
+
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Redes_Neuronales.git
+git push origin master
 ```
 
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
@@ -75,6 +98,7 @@ Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la
 Windows
 ```Pagina web
 https://go.dev/doc/install
+https://git-scm.com/
 ```
 
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
@@ -102,9 +126,18 @@ Windows
 ```Pagina web
 https://posit.co/download/rstudio-desktop/
 https://cran.r-project.org/
+https://git-scm.com/
 ```
 
-Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Redes_Neuronales.git
+git push origin master
+```
+
+Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
 
 
 Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
