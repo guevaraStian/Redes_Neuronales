@@ -34,7 +34,7 @@ git push origin master
 ```
 Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
 ```Terminal de comandos
-cd    
+cd PYTHON_Red_Neuronal   
 pip install --upgrade pip
 pip install scikit-learn sklearn matplotlib numpy pandas seaborn itertools ucimlrepo
 python <Nombre_Proyecto.py>
@@ -78,7 +78,7 @@ git push origin master
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
-cd    
+cd RUBY_Red_Neuronal   
 ruby -v
 ruby <Nombre_Proyecto.rb>
 
@@ -114,7 +114,7 @@ git push origin master
 Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
-cd    
+cd GO_Red_Neuronal   
 go version 
 go run <Nombre_Proyecto.go>
 go build
