@@ -11,10 +11,11 @@ Redes neuronales en Python, Ruby, Go y R
 PYTHON 
 
 Los pasos para poner en ejecución son los siguientes
-Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
+Ir a la pagina web de Python y Git, luego descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
 
 ```Pagina web
 https://www.python.org/downloads/
+https://git-scm.com/downloads
 ```
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
