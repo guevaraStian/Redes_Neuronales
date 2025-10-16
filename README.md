@@ -30,6 +30,7 @@ Despues de haber instalado python y confirmar la version, instalamos git y desca
 git --version
 git init
 git clone https://github.com/guevaraStian/Redes_Neuronales.git
+cd Redes_Neuronales
 git push origin master
 ```
 Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
@@ -72,6 +73,7 @@ Despues de haber instalado Ruby y confirmar la version, instalamos git y descarg
 git --version
 git init
 git clone https://github.com/guevaraStian/Redes_Neuronales.git
+cd Redes_Neuronales
 git push origin master
 ```
 
@@ -108,6 +110,7 @@ Despues de haber instalado python y confirmar la version, instalamos git y desca
 git --version
 git init
 git clone https://github.com/guevaraStian/Redes_Neuronales.git
+cd Redes_Neuronales
 git push origin master
 ```
 
@@ -144,6 +147,7 @@ Despues de haber instalado R y confirmar la version, instalamos git y descargamo
 git --version
 git init
 git clone https://github.com/guevaraStian/Redes_Neuronales.git
+cd Redes_Neuronales
 git push origin master
 ```
 
