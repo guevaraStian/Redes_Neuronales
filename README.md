@@ -7,6 +7,18 @@ Redes neuronales en Python, Ruby, Go y R
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ----------------
+
+Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Redes_Neuronales.git
+cd Redes_Neuronales
+git push origin master
+```
+---------
+
 -----------------
 PYTHON 
 
@@ -25,15 +37,6 @@ python --version
 pip --version
 ```
 
-Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
-
-```Terminal de comandos
-git --version
-git init
-git clone https://github.com/guevaraStian/Redes_Neuronales.git
-cd Redes_Neuronales
-git push origin master
-```
 Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
 ```Terminal de comandos
 cd PYTHON_Red_Neuronal   
@@ -69,15 +72,6 @@ brew install rbenv ruby-build
 sudo apt install rbenv
 ```
 
-Despues de haber instalado Ruby y confirmar la version, instalamos git y descargamos el proyecto.
-```Terminal de comandos
-git --version
-git init
-git clone https://github.com/guevaraStian/Redes_Neuronales.git
-cd Redes_Neuronales
-git push origin master
-```
-
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
@@ -102,17 +96,6 @@ Windows
 ```Pagina web
 https://go.dev/doc/install
 https://git-scm.com/
-```
-
-
-Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
-
-```Terminal de comandos
-git --version
-git init
-git clone https://github.com/guevaraStian/Redes_Neuronales.git
-cd Redes_Neuronales
-git push origin master
 ```
 
 Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
@@ -141,15 +124,6 @@ Windows
 https://posit.co/download/rstudio-desktop/
 https://cran.r-project.org/
 https://git-scm.com/
-```
-
-Despues de haber instalado R y confirmar la version, instalamos git y descargamos el proyecto.
-```Terminal de comandos
-git --version
-git init
-git clone https://github.com/guevaraStian/Redes_Neuronales.git
-cd Redes_Neuronales
-git push origin master
 ```
 
 Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
